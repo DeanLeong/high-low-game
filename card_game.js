@@ -75,7 +75,7 @@ function buildDeck() {
   // 3. Declare a variable called playerName that takes the result of the greet function as its value.
   // 4. Using let, declare a score variable that's currently set to the number zero
   // 5. Use an array method on deck to remove the last object in deck. using let, declare a variable called currentCard and assign it this value.
-  // 6. Create a while loop whos conditions are that the score is less than five or less than the amount of items still in the deck array.
+  // 6. Create a while loop whos conditions are that the score is less than five AND less than the amount of items still in the deck array.
   // 7. Inside the while loop, use an array method on deck to remove the last object and assign that value to a variable named nextCard.
   // 8. Inside the while loop, create a conditional statement. If the outcome of guess is true, increment the score by 1, congratulate the user, and tell them their score. If it's false, tell them they were wrong and got no points.
   // 9. Close the conditional statement and assign nextCard to currentCard. You may have to write this as the type of variable that's always global...
